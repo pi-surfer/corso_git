@@ -1,0 +1,9 @@
+% MAIN CODE
+
+print('Hello World!');
+
+
+for i = 1:n
+	b = a+i;
+	print('b');
+end
