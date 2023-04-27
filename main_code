@@ -7,4 +7,5 @@ for i = 1:n
 	b = a+i;
 	print('b');
 	i += 1;
+	print('ok');
 end
