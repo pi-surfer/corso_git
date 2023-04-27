@@ -1,10 +1,11 @@
-% FIX MAIN CODE
+% DEV MAIN CODE
 
-print('Hello FIX!');
+print('Hello DEV!');
 
 
 for i = 1:n
 	b = a+i;
 	print('b');
 	i += 1;
+	print('ok');
 end
