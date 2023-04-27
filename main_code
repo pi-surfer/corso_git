@@ -1,6 +1,6 @@
-% ADJUSTED MAIN CODE
+% FIX MAIN CODE
 
-print('Hello World!');
+print('Hello FIX!');
 
 
 for i = 1:n
