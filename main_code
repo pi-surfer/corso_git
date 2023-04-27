@@ -1,4 +1,4 @@
-% MAIN CODE
+% ADJUSTED MAIN CODE
 
 print('Hello World!');
 
@@ -6,4 +6,5 @@ print('Hello World!');
 for i = 1:n
 	b = a+i;
 	print('b');
+	i += 1;
 end
