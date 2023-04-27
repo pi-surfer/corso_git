@@ -1,6 +1,6 @@
-% ADJUSTED MAIN CODE
+% DEV MAIN CODE
 
-print('Hello World!');
+print('Hello DEV!');
 
 
 for i = 1:n
