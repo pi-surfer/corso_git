@@ -1,0 +1,6 @@
+# These files will be ignored and not added to the Stage Area (Index)
+
+git-cheat-sheet-education.pdf
+lab_01-git.pdf
+terminal_primer.pdf
+.DS_Store
