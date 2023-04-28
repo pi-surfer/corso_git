@@ -1,11 +1,12 @@
-% DEV MAIN CODE
+% FINAL MAIN CODE
 
-print('Hello DEV!');
+print('FINAL VERSION!');
 
 
 for i = 1:n
 	b = a+i;
 	print('b');
 	i += 1;
-	print('ok');
 end
+
+print('thanks guys')
